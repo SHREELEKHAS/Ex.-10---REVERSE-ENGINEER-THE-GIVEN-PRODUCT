@@ -1,4 +1,4 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+![reverse 2](https://github.com/user-attachments/assets/17cdcba6-bf3f-4f25-a1cf-01a5661f2622)![reverse 3](https://github.com/user-attachments/assets/f5a16cc8-007f-467c-9838-5560012679c6)![reverse 3](https://github.com/user-attachments/assets/6a8bad36-0c94-4c0e-b882-ba6e2e462fa0)![reverse 3](https://github.com/user-attachments/assets/807e7c7c-9dc3-4da0-b760-4ef66e0c1643)# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 
 
@@ -31,9 +31,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![reverse 2](https://github.com/user-attachments/assets/1bb08958-9083-4b84-b9fe-b9c7e3572895)
 
 ### Output:
 
+![reverse 1](https://github.com/user-attachments/assets/617d2ace-4875-4ab9-af0e-d23cb1549f1d)
 
 ### Name:
 ### Register Number:
