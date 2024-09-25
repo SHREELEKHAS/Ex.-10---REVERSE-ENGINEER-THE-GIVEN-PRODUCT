@@ -1,4 +1,4 @@
-![reverse 2](https://github.com/user-attachments/assets/17cdcba6-bf3f-4f25-a1cf-01a5661f2622)![reverse 3](https://github.com/user-attachments/assets/f5a16cc8-007f-467c-9838-5560012679c6)![reverse 3](https://github.com/user-attachments/assets/6a8bad36-0c94-4c0e-b882-ba6e2e462fa0)![reverse 3](https://github.com/user-attachments/assets/807e7c7c-9dc3-4da0-b760-4ef66e0c1643)# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 
 
