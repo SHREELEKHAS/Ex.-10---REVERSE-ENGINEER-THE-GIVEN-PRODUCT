@@ -36,7 +36,8 @@
 
 ## Output:
 ### 3-D Format:
-![Screenshot 2024-10-16 185722](https://github.com/user-attachments/assets/fa7d48cd-c177-479a-aecc-a6c8d2441599)
+![Screenshot 2024-10-16 192322](https://github.com/user-attachments/assets/49c1f271-fd51-45aa-a6ed-016ff5dd5c75)
+
 ### Cura Format:
 ![Screenshot 2024-10-16 191332](https://github.com/user-attachments/assets/88a39522-7a69-4118-ab33-8c9bf81875ab)
 
