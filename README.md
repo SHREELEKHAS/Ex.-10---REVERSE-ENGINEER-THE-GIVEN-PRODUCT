@@ -31,11 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![reverse 2](https://github.com/user-attachments/assets/1bb08958-9083-4b84-b9fe-b9c7e3572895)
+![WhatsApp Image 2024-10-16 at 13 05 27_e5a33aab](https://github.com/user-attachments/assets/9c63ff31-be12-47c1-9213-3a02332de4f0)
+
 
 ### Output:
+![Screenshot 2024-10-16 185722](https://github.com/user-attachments/assets/fa7d48cd-c177-479a-aecc-a6c8d2441599)
+![Screenshot 2024-10-16 191332](https://github.com/user-attachments/assets/88a39522-7a69-4118-ab33-8c9bf81875ab)
 
-![reverse 1](https://github.com/user-attachments/assets/617d2ace-4875-4ab9-af0e-d23cb1549f1d)
+
 
 ### Name:SHREE LEKHA.S
 ### Register Number:212223110052
