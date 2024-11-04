@@ -1,6 +1,6 @@
 # Ex.No.:4 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 16.10.2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -36,7 +36,8 @@
 
 ## Output:
 ### 3-D Format:
-![Screenshot 2024-10-16 192322](https://github.com/user-attachments/assets/49c1f271-fd51-45aa-a6ed-016ff5dd5c75)
+![image](https://github.com/user-attachments/assets/c8fd317b-58f5-465c-9993-a3bcfd01713b)
+
 
 ### Cura Format:
 ![Screenshot 2024-10-16 191332](https://github.com/user-attachments/assets/88a39522-7a69-4118-ab33-8c9bf81875ab)
